@@ -2975,7 +2975,6 @@ Componente 1
 input,
 select {
   padding: 10px;
-  margin-top: 5px;
   font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -3107,7 +3106,6 @@ Componente 2
 input,
 select {
   padding: 10px;
-  margin-top: 5px;
   font-size: 16px;
   border: 1px solid #ccc;
   border-radius: 4px;
