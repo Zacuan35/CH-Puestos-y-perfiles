@@ -30,7 +30,7 @@ p, ul, ol {
 
 /*Teaser*/
 h1, h2, h3, h4, h5, h6 {
-  color: #011E44;
+  color: #1A6AB4;
 }
 
 a {
@@ -2886,7 +2886,7 @@ label span {
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
   line-height: 1.5;
-  background-color: #ffffff;
+  background-color: #ebf5f8;
   color: #011E44;
   border: 1px solid #cedaf8;
   border-radius: 0.25rem;
@@ -4536,7 +4536,7 @@ section.footer {
   background-color: #ffffff;
 }
 .login-box .content footer {
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
   text-align: center;
 }
 .login-box .content footer .btn {
